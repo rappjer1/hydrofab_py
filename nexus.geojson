@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5070" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "nex-3400155", "toid": "wb-3400155", "hl_id": null, "hl_uri": "NA", "type": "nexus" }, "geometry": { "type": "Point", "coordinates": [ -2115782.679601951502264, 1532303.257539874874055 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400156", "toid": "wb-3400156", "hl_id": "3573", "hl_uri": "Gages-11121010,NID-CA00211", "type": "poi" }, "geometry": { "type": "Point", "coordinates": [ -2120149.492113790009171, 1533611.217942201998085 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400157", "toid": "wb-3400157", "hl_id": "2261", "hl_uri": "HUC12-180600100201", "type": "poi" }, "geometry": { "type": "Point", "coordinates": [ -2126044.76925132330507, 1536948.116243952186778 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400158", "toid": "wb-3400158", "hl_id": "2270", "hl_uri": "HUC12-180600100202", "type": "poi" }, "geometry": { "type": "Point", "coordinates": [ -2126540.392202736344188, 1537493.840995681239292 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400159", "toid": "wb-3400159", "hl_id": "2276", "hl_uri": "HUC12-180600100103", "type": "poi" }, "geometry": { "type": "Point", "coordinates": [ -2130442.75353016750887, 1539378.125294981291518 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400160", "toid": "wb-3400160", "hl_id": "3569", "hl_uri": "Gages-11123000,NID-CA00138", "type": "poi" }, "geometry": { "type": "Point", "coordinates": [ -2135309.401307376101613, 1540911.089387502754107 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400187", "toid": "wb-3400187", "hl_id": null, "hl_uri": "NA", "type": "nexus" }, "geometry": { "type": "Point", "coordinates": [ -2115632.125213966239244, 1552452.637885967968032 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400188", "toid": "wb-3400188", "hl_id": null, "hl_uri": "NA", "type": "nexus" }, "geometry": { "type": "Point", "coordinates": [ -2115303.323853034991771, 1551331.200729541713372 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400189", "toid": "wb-3400189", "hl_id": "2262", "hl_uri": "HUC12-180600100101", "type": "poi" }, "geometry": { "type": "Point", "coordinates": [ -2122446.118440387304872, 1548711.654263432603329 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400190", "toid": "wb-3400190", "hl_id": null, "hl_uri": "NA", "type": "nexus" }, "geometry": { "type": "Point", "coordinates": [ -2127711.44274866534397, 1544234.996594753814861 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400191", "toid": "wb-3400191", "hl_id": "2263", "hl_uri": "HUC12-180600100102", "type": "poi" }, "geometry": { "type": "Point", "coordinates": [ -2130040.560246715787798, 1540925.556344729382545 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400200", "toid": "wb-3400200", "hl_id": null, "hl_uri": "NA", "type": "nexus" }, "geometry": { "type": "Point", "coordinates": [ -2119497.383011332247406, 1544202.368916060077026 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400201", "toid": "wb-3400201", "hl_id": null, "hl_uri": "NA", "type": "nexus" }, "geometry": { "type": "Point", "coordinates": [ -2119751.352365312632173, 1543672.565537333255634 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400204", "toid": "wb-3400204", "hl_id": null, "hl_uri": "NA", "type": "nexus" }, "geometry": { "type": "Point", "coordinates": [ -2127116.146199894603342, 1553092.542249354533851 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400205", "toid": "wb-3400205", "hl_id": null, "hl_uri": "NA", "type": "nexus" }, "geometry": { "type": "Point", "coordinates": [ -2128884.602406329475343, 1552656.571892064530402 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400206", "toid": "wb-3400206", "hl_id": null, "hl_uri": "NA", "type": "nexus" }, "geometry": { "type": "Point", "coordinates": [ -2132423.006624230649322, 1545882.576037344289944 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400229", "toid": "wb-3400229", "hl_id": null, "hl_uri": "NA", "type": "nexus" }, "geometry": { "type": "Point", "coordinates": [ -2123814.77922149002552, 1552360.415436659241095 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400230", "toid": "wb-3400230", "hl_id": null, "hl_uri": "NA", "type": "nexus" }, "geometry": { "type": "Point", "coordinates": [ -2123867.302503621205688, 1552368.447933020535856 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400234", "toid": "wb-3400234", "hl_id": null, "hl_uri": "NA", "type": "nexus" }, "geometry": { "type": "Point", "coordinates": [ -2119683.74570601247251, 1533351.121613469673321 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400243", "toid": "wb-3400243", "hl_id": null, "hl_uri": "NA", "type": "nexus" }, "geometry": { "type": "Point", "coordinates": [ -2125611.677659759763628, 1534331.309894331265241 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400244", "toid": "wb-3400244", "hl_id": null, "hl_uri": "NA", "type": "nexus" }, "geometry": { "type": "Point", "coordinates": [ -2127754.063609612174332, 1535505.956766209797934 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400266", "toid": "wb-3400266", "hl_id": null, "hl_uri": "NA", "type": "nexus" }, "geometry": { "type": "Point", "coordinates": [ -2120786.627201911062002, 1540401.537451978540048 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400267", "toid": "wb-3400267", "hl_id": null, "hl_uri": "NA", "type": "nexus" }, "geometry": { "type": "Point", "coordinates": [ -2134427.113300669938326, 1548398.423531908309087 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400274", "toid": "wb-3400274", "hl_id": null, "hl_uri": "NA", "type": "nexus" }, "geometry": { "type": "Point", "coordinates": [ -2112327.597981575410813, 1550576.346903383499011 ] } },
+{ "type": "Feature", "properties": { "id": "nex-3400331", "toid": "wb-3400331", "hl_id": null, "hl_uri": "NA", "type": "nexus" }, "geometry": { "type": "Point", "coordinates": [ -2126669.36371751781553, 1553317.230521584162489 ] } }
+]
+}
